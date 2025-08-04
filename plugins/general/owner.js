@@ -8,23 +8,28 @@ export default {
     
     async execute(context) {
         const { sock, msg } = context
-        
-        const ownerText = `
-👤 ᴏᴡɴᴇʀ ɪɴғᴏʀᴍᴀᴛɪᴏɴ
-
-• ɴᴀᴍᴇ: ᴋɪᴢɴᴀᴠɪᴇʀʀ
-• ᴡʜᴀᴛsᴀᴘᴘ: wa.me/6287863806297
-• ɢɪᴛʜᴜʙ: github.com/kiznavierr
-
-ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴏʀ ɪssᴜᴇs, ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ!`
 
         try {
+            // Send owner contact with vcard directly
+            const vcard = `BEGIN:VCARD
+VERSION:3.0
+FN:Kiznavierr
+ORG:Bot Developer
+TEL;type=CELL;type=VOICE;waid=6287863806297:+62 878-6380-6297
+END:VCARD`
+
             await sock.sendMessage(msg.key.remoteJid, {
-                text: ownerText
+                contacts: {
+                    displayName: 'Kiznavierr',
+                    contacts: [{
+                        vcard: vcard
+                    }]
+                }
             }, { quoted: msg })
+            
         } catch (error) {
             await sock.sendMessage(msg.key.remoteJid, {
-                text: '❌ ᴇʀʀᴏʀ sᴇɴᴅɪɴɢ ᴏᴡɴᴇʀ ɪɴғᴏ'
+                text: '❌ ᴇʀʀᴏʀ sᴇɴᴅɪɴɢ ᴏᴡɴᴇʀ ᴄᴏɴᴛᴀᴄᴛ'
             }, { quoted: msg })
         }
     }
