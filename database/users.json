@@ -1,0 +1,42 @@
+{
+  "6287863806297": {
+    "jid": "6287863806297@s.whatsapp.net",
+    "userId": "6287863806297",
+    "name": "",
+    "level": 6,
+    "exp": 540,
+    "limit": 50,
+    "premium": false,
+    "premiumSince": null,
+    "premiumExpiry": null,
+    "banned": false,
+    "warning": 0,
+    "lastSeen": 1754145773818,
+    "registered": false,
+    "regTime": 0,
+    "jidHistory": [
+      "6287863806297@s.whatsapp.net"
+    ],
+    "currentJid": "6287863806297@s.whatsapp.net"
+  },
+  "6287853240882": {
+    "jid": "6287853240882@s.whatsapp.net",
+    "userId": "6287853240882",
+    "name": "",
+    "level": 1,
+    "exp": 0,
+    "limit": 50,
+    "premium": false,
+    "premiumSince": null,
+    "premiumExpiry": null,
+    "banned": false,
+    "warning": 0,
+    "lastSeen": 1754295162014,
+    "registered": false,
+    "regTime": 0,
+    "jidHistory": [
+      "6287853240882@s.whatsapp.net"
+    ],
+    "currentJid": "6287853240882@s.whatsapp.net"
+  }
+}
