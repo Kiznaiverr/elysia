@@ -55,7 +55,7 @@ Edit the `config.json` file to configure your bot:
 ## Installation
 
 ```bash
-$ git clone https://github.com/kiznaiverr/elysia-bot
+$ git clone https://github.com/kiznaiverr/elysia
 $ cd elysia-bot
 $ npm install
 $ node index.js
