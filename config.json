@@ -2,6 +2,8 @@
   "botSettings": {
     "botName": "Elysia",
     "author": "Kiznavierr",
+    "packname": "Elysia Bot",
+    "stickerAuthor": "Created by Kiznavierr",
     "prefix": ".",
     "timezone": "Asia/Jakarta",
     "pairingMode": false
