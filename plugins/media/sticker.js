@@ -1,6 +1,7 @@
 import { imageToSticker, video2webp } from '../../lib/sticker.js'
 import logger from '../../lib/logger.js'
 import { downloadContentFromMessage } from '@whiskeysockets/baileys'
+import config from '../../lib/config.js'
 
 const processingCache = new Map()
 
@@ -32,7 +33,6 @@ export default {
       let media, isGif = false, isVideo = false
       let messageToDownload = null
 
-      // Check if current message has media
       if (msg.message?.imageMessage) {
         messageToDownload = msg.message.imageMessage
         isGif = false
@@ -41,7 +41,6 @@ export default {
         isGif = !!msg.message.videoMessage.gifPlayback
         isVideo = !isGif
       } else if (msg.message?.extendedTextMessage?.contextInfo?.quotedMessage) {
-        // Check quoted message
         const quoted = msg.message.extendedTextMessage.contextInfo.quotedMessage
         if (quoted.imageMessage) {
           messageToDownload = quoted.imageMessage
@@ -61,7 +60,6 @@ export default {
         return
       }
 
-      // Download media using Baileys downloadContentFromMessage
       const stream = await downloadContentFromMessage(messageToDownload, isGif ? 'video' : (isVideo ? 'video' : 'image'))
       const chunks = []
       for await (const chunk of stream) {
@@ -75,10 +73,18 @@ export default {
 
       logger.info(`Sticker: Converting ${isVideo ? 'video' : (isGif ? 'GIF' : 'image')} to sticker (${media.length} bytes)`)
       let stickerBuffer
+      
       if (isVideo) {
-        stickerBuffer = await video2webp(media, 15)
+        stickerBuffer = await video2webp(media, 15, {
+          packname: config.get('botSettings', 'packname'),
+          author: config.get('botSettings', 'stickerAuthor')
+        })
       } else {
-        stickerBuffer = await imageToSticker(media, { isGif })
+        stickerBuffer = await imageToSticker(media, {
+          isGif,
+          packname: config.get('botSettings', 'packname'),
+          author: config.get('botSettings', 'stickerAuthor'),
+        })
       }
       await sock.sendMessage(chatId, { sticker: stickerBuffer }, { quoted: msg })
       await sock.sendMessage(chatId, { react: { text: '✅', key: msg.key } })

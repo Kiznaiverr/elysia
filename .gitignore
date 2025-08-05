@@ -7,3 +7,6 @@ sessions/
 *.session
 auth_info_baileys/
 database/
+testing
+cache
+package-lock.json
