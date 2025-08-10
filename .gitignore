@@ -1,0 +1,12 @@
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+session/
+sessions/
+*.session
+auth_info_baileys/
+database/
+testing
+cache
+package-lock.json

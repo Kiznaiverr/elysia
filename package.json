@@ -1,0 +1,46 @@
+{
+  "name": "elysia-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Elysia WhatsApp Bot with Baileys - Support for LID migration and pairing code",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "pair": "node index.js --pairing-code",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "baileys",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Kiznavierr",
+  "license": "MIT",
+  "dependencies": {
+    "@gradio/client": "^1.15.7",
+    "@vreden/youtube_scraper": "latest",
+    "@whiskeysockets/baileys": "^6.7.8",
+    "awesome-phonenumber": "^6.0.0",
+    "axios": "^1.6.8",
+    "chalk": "^5.3.0",
+    "file-type": "^19.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^4.0.0",
+    "formdata-node": "^6.0.3",
+    "latest": "^0.2.0",
+    "moment-timezone": "^0.5.45",
+    "node-cron": "^3.0.3",
+    "pino": "^8.19.0",
+    "pino-pretty": "^11.0.0",
+    "qrcode-terminal": "^0.12.0",
+    "readline": "^1.3.0",
+    "url-regex-safe": "^4.0.0",
+    "wa-sticker-formatter": "^4.4.4",
+    "yt-search": "^2.13.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

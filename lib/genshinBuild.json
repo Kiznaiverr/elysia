@@ -1,0 +1,1106 @@
+{
+  "amber": [
+    {
+      "key": "AMBER_BURGEON_1",
+      "url": "https://keqingmains.com/i/amber-burgeon-build/",
+      "buildType": "Burgeon",
+      "buildNumber": 1
+    },
+    {
+      "key": "AMBER_MELT_C4_2",
+      "url": "https://keqingmains.com/i/amber-melt-bunny-bomber-dps-build/",
+      "buildType": "C4 Melt",
+      "buildNumber": 2
+    },
+    {
+      "key": "AMBER_MELT_3",
+      "url": "https://keqingmains.com/i/amber-melt-charged-shot-dps-build/",
+      "buildType": "Melt",
+      "buildNumber": 3
+    }
+  ],
+  "arlecchino": [
+    {
+      "key": "ARLECCHINO_1",
+      "url": "https://keqingmains.com/i/arlecchino/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "bennett": [
+    {
+      "key": "BENNETT_1",
+      "url": "https://keqingmains.com/i/bennett/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "chevreuse": [
+    {
+      "key": "CHEVREUSE_QUICKSWAP_1",
+      "url": "https://keqingmains.com/i/chevreuse-quickswap/",
+      "buildType": "Quickswap",
+      "buildNumber": 1
+    },
+    {
+      "key": "CHEVREUSE_SUPPORT_2",
+      "url": "https://keqingmains.com/i/chevreuse-support/",
+      "buildType": "Support",
+      "buildNumber": 2
+    }
+  ],
+  "dehya": [
+    {
+      "key": "DEHYA_DPS_1",
+      "url": "https://keqingmains.com/i/dehya-on-field-dps/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    },
+    {
+      "key": "DEHYA_SUPPORT_2",
+      "url": "https://keqingmains.com/i/dehya-support/",
+      "buildType": "Support",
+      "buildNumber": 2
+    }
+  ],
+  "gaming": [
+    {
+      "key": "GAMING_1",
+      "url": "https://keqingmains.com/i/gaming/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "hutao": [
+    {
+      "key": "HUTAO_1",
+      "url": "https://keqingmains.com/i/hu-tao/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "klee": [
+    {
+      "key": "KLEE_BURGEON_1",
+      "url": "https://keqingmains.com/i/klee-burgeon/",
+      "buildType": "Burgeon",
+      "buildNumber": 1
+    },
+    {
+      "key": "KLEE_DPS_2",
+      "url": "https://keqingmains.com/i/klee-on-field-dps/",
+      "buildType": "DPS",
+      "buildNumber": 2
+    }
+  ],
+  "lyney": [
+    {
+      "key": "LYNEY_1",
+      "url": "https://keqingmains.com/i/lyney/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "mavuika": [
+    {
+      "key": "MAVUIKA_SUPPORT_1",
+      "url": "https://keqingmains.com/i/mavuika-off-field/",
+      "buildType": "Support",
+      "buildNumber": 1
+    },
+    {
+      "key": "MAVUIKA_DPS_2",
+      "url": "https://keqingmains.com/i/mavuika/",
+      "buildType": "DPS",
+      "buildNumber": 2
+    }
+  ],
+  "traveler": [
+    {
+      "key": "TRAVELER_DPS_1",
+      "url": "https://keqingmains.com/i/pyro-traveler-reaction-dps/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    },
+    {
+      "key": "TRAVELER_SUPPORT_2",
+      "url": "https://keqingmains.com/i/pyro-traveler-support/",
+      "buildType": "Support",
+      "buildNumber": 2
+    }
+  ],
+  "thoma": [
+    {
+      "key": "THOMA_BURGEON_1",
+      "url": "https://keqingmains.com/i/thoma-burgeon/",
+      "buildType": "Burgeon",
+      "buildNumber": 1
+    },
+    {
+      "key": "THOMA_SUPPORT_2",
+      "url": "https://keqingmains.com/i/thoma-support/",
+      "buildType": "Support",
+      "buildNumber": 2
+    }
+  ],
+  "xiangling": [
+    {
+      "key": "XIANGLING_DPS_1",
+      "url": "https://keqingmains.com/i/xiangling-dps/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    },
+    {
+      "key": "XIANGLING_SUPPORT_2",
+      "url": "https://keqingmains.com/i/xiangling-support/",
+      "buildType": "Support",
+      "buildNumber": 2
+    }
+  ],
+  "xinyan": [
+    {
+      "key": "XINYAN_PHYSICAL_1",
+      "url": "https://keqingmains.com/i/xinyan-physical/",
+      "buildType": "Physical",
+      "buildNumber": 1
+    },
+    {
+      "key": "XINYAN_DPS_2",
+      "url": "https://keqingmains.com/i/xinyan-pyro/",
+      "buildType": "DPS",
+      "buildNumber": 2
+    },
+    {
+      "key": "XINYAN_SHIELDER_3",
+      "url": "https://keqingmains.com/i/xinyan-shielder/",
+      "buildType": "Shielder",
+      "buildNumber": 3
+    }
+  ],
+  "yanfei": [
+    {
+      "key": "YANFEI_1",
+      "url": "https://keqingmains.com/i/yanfei/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "yoimiya": [
+    {
+      "key": "YOIMIYA_1",
+      "url": "https://keqingmains.com/i/yoimiya/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "aloy": [
+    {
+      "key": "ALOY_DPS_1",
+      "url": "https://keqingmains.com/i/aloy-freeze/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    },
+    {
+      "key": "ALOY_SUPPORT_2",
+      "url": "https://keqingmains.com/i/aloy-support/",
+      "buildType": "Support",
+      "buildNumber": 2
+    },
+    {
+      "key": "ALOY_MELT_3",
+      "url": "https://keqingmains.com/i/aloy-melt/",
+      "buildType": "Melt",
+      "buildNumber": 3
+    }
+  ],
+  "ayaka": [
+    {
+      "key": "AYAKA_1",
+      "url": "https://keqingmains.com/i/ayaka/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "charlotte": [
+    {
+      "key": "CHARLOTTE_1",
+      "url": "https://keqingmains.com/i/charlotte/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "chongyun": [
+    {
+      "key": "CHONGYUN_1",
+      "url": "https://keqingmains.com/i/chongyun/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "citlali": [
+    {
+      "key": "CITLALI_1",
+      "url": "https://keqingmains.com/i/citlali/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "diona": [
+    {
+      "key": "DIONA_1",
+      "url": "https://keqingmains.com/i/diona/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "escofier": [
+    {
+      "key": "ESCOFIER_FREEZE_1",
+      "url": "https://keqingmains.com/i/escoffier-freeze/",
+      "buildType": "Freeze",
+      "buildNumber": 1
+    },
+    {
+      "key": "ESCOFIER_SUPPORT_2",
+      "url": "https://keqingmains.com/i/escoffier-general-support/",
+      "buildType": "Support",
+      "buildNumber": 2
+    }
+  ],
+  "eula": [
+    {
+      "key": "EULA_1",
+      "url": "https://keqingmains.com/i/eula/",
+      "buildType": "Physical",
+      "buildNumber": 1
+    }
+  ],
+  "freminet": [
+    {
+      "key": "FREMINET_CRYO_1",
+      "url": "https://keqingmains.com/i/freminet-cryo-dps/",
+      "buildType": "Cryo DPS",
+      "buildNumber": 1
+    },
+    {
+      "key": "FREMINET_PHYSICAL_2",
+      "url": "https://keqingmains.com/i/freminet-physical-dps/",
+      "buildType": "Physical DPS",
+      "buildNumber": 2
+    }
+  ],
+  "ganyu": [
+    {
+      "key": "GANYU_FREEZE_1",
+      "url": "https://keqingmains.com/i/ganyu-freeze/",
+      "buildType": "Freeze",
+      "buildNumber": 1
+    },
+    {
+      "key": "GANYU_MELT_2",
+      "url": "https://keqingmains.com/i/ganyu-melt/",
+      "buildType": "Melt",
+      "buildNumber": 2
+    }
+  ],
+  "kaeya": [
+    {
+      "key": "KAEYA_FREEZE_1",
+      "url": "https://keqingmains.com/i/kaeya-freeze/",
+      "buildType": "Freeze",
+      "buildNumber": 1
+    },
+    {
+      "key": "KAEYA_MELT_2",
+      "url": "https://keqingmains.com/i/kaeya-melt/",
+      "buildType": "Melt",
+      "buildNumber": 2
+    }
+  ],
+  "layla": [
+    {
+      "key": "LAYLA_DPS_1",
+      "url": "https://keqingmains.com/i/layla-dps/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    },
+    {
+      "key": "LAYLA_SUPPORT_2",
+      "url": "https://keqingmains.com/i/layla-support/",
+      "buildType": "Support",
+      "buildNumber": 2
+    }
+  ],
+  "mika": [
+    {
+      "key": "MIKA_1",
+      "url": "https://keqingmains.com/i/mika/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "qiqi": [
+    {
+      "key": "QIQI_1",
+      "url": "https://keqingmains.com/i/qiqi/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "rosaria": [
+    {
+      "key": "ROSARIA_FREEZE_1",
+      "url": "https://keqingmains.com/i/rosaria-freeze/",
+      "buildType": "Freeze",
+      "buildNumber": 1
+    },
+    {
+      "key": "ROSARIA_REVERSE_MELT_2",
+      "url": "https://keqingmains.com/i/rosaria-reverse-melt/",
+      "buildType": "Reverse Melt",
+      "buildNumber": 2
+    }
+  ],
+  "shenhe": [
+    {
+      "key": "SHENHE_1",
+      "url": "https://keqingmains.com/i/shenhe/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "skirk": [
+    {
+      "key": "SKIRK_1",
+      "url": "https://keqingmains.com/i/skirk/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "wriothesley": [
+    {
+      "key": "WRIOTHESLEY_FREEZE_1",
+      "url": "https://keqingmains.com/i/wriothesley-freeze-and-mono-cryo-dps/",
+      "buildType": "Freeze",
+      "buildNumber": 1
+    },
+    {
+      "key": "WRIOTHESLEY_MELT_2",
+      "url": "https://keqingmains.com/i/wriothesley-melt-dps/",
+      "buildType": "Melt",
+      "buildNumber": 2
+    }
+  ],
+  "ayato": [
+    {
+      "key": "AYATO_1",
+      "url": "https://keqingmains.com/i/ayato/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "barbara": [
+    {
+      "key": "BARBARA_1",
+      "url": "https://keqingmains.com/i/barbara/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "candace": [
+    {
+      "key": "CANDACE_BLOOM_1",
+      "url": "https://keqingmains.com/i/candace-bloom/",
+      "buildType": "Bloom",
+      "buildNumber": 1
+    },
+    {
+      "key": "CANDACE_DPS_2",
+      "url": "https://keqingmains.com/i/candace-dps/",
+      "buildType": "DPS",
+      "buildNumber": 2
+    },
+    {
+      "key": "CANDACE_SUPPORT_3",
+      "url": "https://keqingmains.com/i/candace-support/",
+      "buildType": "Support",
+      "buildNumber": 3
+    }
+  ],
+  "dahlia": [
+    {
+      "key": "DAHLIA_1",
+      "url": "https://keqingmains.com/i/dahlia/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "furina": [
+    {
+      "key": "FURINA_1",
+      "url": "https://keqingmains.com/i/furina/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "hydrotraveler": [
+    {
+      "key": "HYDRO_TRAVELER_1",
+      "url": "https://keqingmains.com/i/hydro-traveler/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "kokomi": [
+    {
+      "key": "KOKOMI_BLOOM_1",
+      "url": "https://keqingmains.com/i/kokomi-nilou-bloom/",
+      "buildType": "Bloom",
+      "buildNumber": 1
+    },
+    {
+      "key": "KOKOMI_OFF_FIELD_2",
+      "url": "https://keqingmains.com/i/kokomi-off-field-support/",
+      "buildType": "Off Field",
+      "buildNumber": 2
+    },
+    {
+      "key": "KOKOMI_ON_FIELD_3",
+      "url": "https://keqingmains.com/i/kokomi-on-field-driver/",
+      "buildType": "On Field",
+      "buildNumber": 3
+    }
+  ],
+  "mona": [
+    {
+      "key": "MONA_1",
+      "url": "https://keqingmains.com/i/mona/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "mualani": [
+    {
+      "key": "MUALANI_1",
+      "url": "https://keqingmains.com/i/mualani/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "neuvillette": [
+    {
+      "key": "NEUVILLETTE_1",
+      "url": "https://keqingmains.com/i/neuvillette/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "nilou": [
+    {
+      "key": "NILOU_1",
+      "url": "https://keqingmains.com/i/nilou/",
+      "buildType": "Bloom",
+      "buildNumber": 1
+    }
+  ],
+  "sigewinne": [
+    {
+      "key": "SIGEWINNE_1",
+      "url": "https://keqingmains.com/i/sigewinne/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "tartaglia": [
+    {
+      "key": "TARTAGLIA_1",
+      "url": "https://keqingmains.com/i/tartaglia/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "childe": [
+    {
+      "key": "CHILDE_1",
+      "url": "https://keqingmains.com/i/tartaglia/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "xingqiu": [
+    {
+      "key": "XINGQIU_1",
+      "url": "https://keqingmains.com/i/xingqiu/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "yelan": [
+    {
+      "key": "YELAN_1",
+      "url": "https://keqingmains.com/i/yelan/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "beidou": [
+    {
+      "key": "BEIDOU_1",
+      "url": "https://keqingmains.com/i/beidou/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "clorinde": [
+    {
+      "key": "CLORINDE_1",
+      "url": "https://keqingmains.com/i/clorinde/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "cyno": [
+    {
+      "key": "CYNO_1",
+      "url": "https://keqingmains.com/i/cyno/",
+      "buildType": "Aggravate",
+      "buildNumber": 1
+    }
+  ],
+  "dori": [
+    {
+      "key": "DORI_C6_AGGRAVATE_1",
+      "url": "https://keqingmains.com/i/dori-c6-aggravate/",
+      "buildType": "C6 Aggravate",
+      "buildNumber": 1
+    },
+    {
+      "key": "DORI_HYPERBLOOM_2",
+      "url": "https://keqingmains.com/i/dori-hyperbloom/",
+      "buildType": "Hyperbloom",
+      "buildNumber": 2
+    },
+    {
+      "key": "DORI_SUPPORT_3",
+      "url": "https://keqingmains.com/i/dori-support/",
+      "buildType": "Support",
+      "buildNumber": 3
+    }
+  ],
+  "electrotraveler": [
+    {
+      "key": "ELECTRO_TRAVELER_1",
+      "url": "https://keqingmains.com/i/electro-traveler/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "fischl": [
+    {
+      "key": "FISCHL_1",
+      "url": "https://keqingmains.com/i/fischl/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "iansan": [
+    {
+      "key": "IANSAN_1",
+      "url": "https://keqingmains.com/i/iansan/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "keqing": [
+    {
+      "key": "KEQING_ELECTRO_1",
+      "url": "https://keqingmains.com/i/keqing-electro/",
+      "buildType": "Electro",
+      "buildNumber": 1
+    },
+    {
+      "key": "KEQING_AGGRAVATE_2",
+      "url": "https://keqingmains.com/i/keqing-aggravate/",
+      "buildType": "Aggravate",
+      "buildNumber": 2
+    }
+  ],
+  "lisa": [
+    {
+      "key": "LISA_OFF_FIELD_1",
+      "url": "https://keqingmains.com/i/lisa-off-field-build/",
+      "buildType": "Off Field",
+      "buildNumber": 1
+    },
+    {
+      "key": "LISA_ON_FIELD_2",
+      "url": "https://keqingmains.com/i/lisa-on-field-dps-build/",
+      "buildType": "On Field",
+      "buildNumber": 2
+    }
+  ],
+  "ororon": [
+    {
+      "key": "ORORON_1",
+      "url": "https://keqingmains.com/i/ororon/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "raiden": [
+    {
+      "key": "RAIDEN_AGGRAVATE_1",
+      "url": "https://keqingmains.com/i/raiden-aggravate/",
+      "buildType": "Aggravate",
+      "buildNumber": 1
+    },
+    {
+      "key": "RAIDEN_HYPERBLOOM_2",
+      "url": "https://keqingmains.com/i/raiden-hyperbloom/",
+      "buildType": "Hyperbloom",
+      "buildNumber": 2
+    },
+    {
+      "key": "RAIDEN_DPS_3",
+      "url": "https://keqingmains.com/i/raiden-on-field/",
+      "buildType": "DPS",
+      "buildNumber": 3
+    }
+  ],
+  "razor": [
+    {
+      "key": "RAZOR_AGGRAVATE_1",
+      "url": "https://keqingmains.com/i/razor-aggravate/",
+      "buildType": "Aggravate",
+      "buildNumber": 1
+    },
+    {
+      "key": "RAZOR_PHYSICAL_2",
+      "url": "https://keqingmains.com/i/razor-physical/",
+      "buildType": "Physical",
+      "buildNumber": 2
+    }
+  ],
+  "sara": [
+    {
+      "key": "SARA_1",
+      "url": "https://keqingmains.com/i/sara/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "kujousara": [
+    {
+      "key": "KUJOU_SARA_1",
+      "url": "https://keqingmains.com/i/sara/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "sethos": [
+    {
+      "key": "SETHOS_1",
+      "url": "https://keqingmains.com/i/sethos/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "shinobu": [
+    {
+      "key": "SHINOBU_HYPERBLOOM_1",
+      "url": "https://keqingmains.com/i/shinobu-hyperbloom/",
+      "buildType": "Hyperbloom",
+      "buildNumber": 1
+    },
+    {
+      "key": "SHINOBU_QUICKEN_2",
+      "url": "https://keqingmains.com/i/shinobu-quicken/",
+      "buildType": "Quicken",
+      "buildNumber": 2
+    }
+  ],
+  "kukishinobu": [
+    {
+      "key": "KUKI_SHINOBU_HYPERBLOOM_1",
+      "url": "https://keqingmains.com/i/shinobu-hyperbloom/",
+      "buildType": "Hyperbloom",
+      "buildNumber": 1
+    },
+    {
+      "key": "KUKI_SHINOBU_QUICKEN_2",
+      "url": "https://keqingmains.com/i/shinobu-quicken/",
+      "buildType": "Quicken",
+      "buildNumber": 2
+    }
+  ],
+  "varesa": [
+    {
+      "key": "VARESA_1",
+      "url": "https://keqingmains.com/i/varesa/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "yaemiko": [
+    {
+      "key": "YAE_MIKO_1",
+      "url": "https://keqingmains.com/i/yae/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "anemotraveler": [
+    {
+      "key": "ANEMO_TRAVELER_1",
+      "url": "https://keqingmains.com/i/anemo-traveler/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "chasca": [
+    {
+      "key": "CHASCA_1",
+      "url": "https://keqingmains.com/i/chasca/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "faruzan": [
+    {
+      "key": "FARUZAN_1",
+      "url": "https://keqingmains.com/i/faruzan/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "heizou": [
+    {
+      "key": "HEIZOU_DPS_1",
+      "url": "https://keqingmains.com/i/heizou-dps/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    },
+    {
+      "key": "HEIZOU_DRIVER_2",
+      "url": "https://keqingmains.com/i/heizou-driver/",
+      "buildType": "Driver",
+      "buildNumber": 2
+    },
+    {
+      "key": "HEIZOU_SUPPORT_3",
+      "url": "https://keqingmains.com/i/heizou-support/",
+      "buildType": "Support",
+      "buildNumber": 3
+    }
+  ],
+  "ifa": [
+    {
+      "key": "IFA_ANEMO_DPS_1",
+      "url": "https://keqingmains.com/i/ifa-anemo-dps/",
+      "buildType": "Anemo DPS",
+      "buildNumber": 1
+    },
+    {
+      "key": "IFA_SWIRL_DPS_2",
+      "url": "https://keqingmains.com/i/ifa-swirl-dps/",
+      "buildType": "Swirl DPS",
+      "buildNumber": 2
+    }
+  ],
+  "jean": [
+    {
+      "key": "JEAN_SUNFIRE_1",
+      "url": "https://keqingmains.com/i/jean-sunfire/",
+      "buildType": "Sunfire",
+      "buildNumber": 1
+    },
+    {
+      "key": "JEAN_SUPPORT_2",
+      "url": "https://keqingmains.com/i/jean-support/",
+      "buildType": "Support",
+      "buildNumber": 2
+    }
+  ],
+  "kazuha": [
+    {
+      "key": "KAZUHA_1",
+      "url": "https://keqingmains.com/i/kazuha/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "lanyan": [
+    {
+      "key": "LAN_YAN_1",
+      "url": "https://keqingmains.com/i/lan-yan/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "lynette": [
+    {
+      "key": "LYNETTE_C6_1",
+      "url": "https://keqingmains.com/i/lynette-c6-dps/",
+      "buildType": "C6",
+      "buildNumber": 1
+    },
+    {
+      "key": "LYNETTE_REACTION_2",
+      "url": "https://keqingmains.com/i/lynette-reaction/",
+      "buildType": "Reaction",
+      "buildNumber": 2
+    },
+    {
+      "key": "LYNETTE_SUPPORT_3",
+      "url": "https://keqingmains.com/i/lynette-support/",
+      "buildType": "Support",
+      "buildNumber": 3
+    }
+  ],
+  "mizuki": [
+    {
+      "key": "MIZUKI_1",
+      "url": "https://keqingmains.com/i/mizuki/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "sayu": [
+    {
+      "key": "SAYU_OFF_FIELD_1",
+      "url": "https://keqingmains.com/i/sayu-off-field/",
+      "buildType": "Off Field",
+      "buildNumber": 1
+    },
+    {
+      "key": "SAYU_ON_FIELD_2",
+      "url": "https://keqingmains.com/i/sayu-on-field/",
+      "buildType": "On Field",
+      "buildNumber": 2
+    }
+  ],
+  "sucrose": [
+    {
+      "key": "SUCROSE_1",
+      "url": "https://keqingmains.com/i/sucrose/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "venti": [
+    {
+      "key": "VENTI_1",
+      "url": "https://keqingmains.com/i/venti/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "wanderer": [
+    {
+      "key": "WANDERER_1",
+      "url": "https://keqingmains.com/i/wanderer/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "xianyun": [
+    {
+      "key": "XIANYUN_1",
+      "url": "https://keqingmains.com/i/xianyun/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "xiao": [
+    {
+      "key": "XIAO_1",
+      "url": "https://keqingmains.com/i/xiao/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "albedo": [
+    {
+      "key": "ALBEDO_1",
+      "url": "https://keqingmains.com/i/albedo/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "chiori": [
+    {
+      "key": "CHIORI_1",
+      "url": "https://keqingmains.com/i/chiori/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "geotraveler": [
+    {
+      "key": "GEO_TRAVELER_1",
+      "url": "https://keqingmains.com/i/geo-traveler/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "gorou": [
+    {
+      "key": "GOROU_1",
+      "url": "https://keqingmains.com/i/gorou/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "itto": [
+    {
+      "key": "ITTO_1",
+      "url": "https://keqingmains.com/i/itto/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "kachina": [
+    {
+      "key": "KACHINA_1",
+      "url": "https://keqingmains.com/i/kachina/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "navia": [
+    {
+      "key": "NAVIA_1",
+      "url": "https://keqingmains.com/i/navia/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "ningguang": [
+    {
+      "key": "NINGGUANG_1",
+      "url": "https://keqingmains.com/i/ningguang/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "noelle": [
+    {
+      "key": "NOELLE_1",
+      "url": "https://keqingmains.com/i/noelle/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "xilonen": [
+    {
+      "key": "XILONEN_1",
+      "url": "https://keqingmains.com/i/xilonen/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "yunjin": [
+    {
+      "key": "YUN_JIN_1",
+      "url": "https://keqingmains.com/i/yun-jin/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "zhongli": [
+    {
+      "key": "ZHONGLI_1",
+      "url": "https://keqingmains.com/i/zhongli/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "alhaitham": [
+    {
+      "key": "ALHAITHAM_1",
+      "url": "https://keqingmains.com/i/alhaitham/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "baizhu": [
+    {
+      "key": "BAIZHU_1",
+      "url": "https://keqingmains.com/i/baizhu/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "collei": [
+    {
+      "key": "COLLEI_1",
+      "url": "https://keqingmains.com/i/collei/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "dendrotraveler": [
+    {
+      "key": "DENDRO_TRAVELER_1",
+      "url": "https://keqingmains.com/i/dendro-traveler-build/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "emilie": [
+    {
+      "key": "EMILIE_1",
+      "url": "https://keqingmains.com/i/emilie/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "kaveh": [
+    {
+      "key": "KAVEH_1",
+      "url": "https://keqingmains.com/i/kaveh/",
+      "buildType": "Bloom",
+      "buildNumber": 1
+    }
+  ],
+  "kinich": [
+    {
+      "key": "KINICH_1",
+      "url": "https://keqingmains.com/i/kinich/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "kirara": [
+    {
+      "key": "KIRARA_1",
+      "url": "https://keqingmains.com/i/kirara/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "nahida": [
+    {
+      "key": "NAHIDA_1",
+      "url": "https://keqingmains.com/i/nahida/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ],
+  "tighnari": [
+    {
+      "key": "TIGHNARI_1",
+      "url": "https://keqingmains.com/i/tighnari/",
+      "buildType": "DPS",
+      "buildNumber": 1
+    }
+  ],
+  "yaoyao": [
+    {
+      "key": "YAOYAO_1",
+      "url": "https://keqingmains.com/i/yaoyao/",
+      "buildType": "Support",
+      "buildNumber": 1
+    }
+  ]
+}
